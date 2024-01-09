@@ -1,0 +1,23 @@
+body{
+    max-width:500px;
+    margin:0 auto;
+
+}
+input{
+    display: block;
+    margin: 10px;
+    width:100%;
+    padding: 10px;
+}
+.btn{
+    width: 100px;
+    background-color: blue;
+    color: thistle;
+    font-weight: bold;
+    font-size: 17px;
+
+}
+/*th,td{
+    border: 1px double ;
+    padding: 5px;
+}
